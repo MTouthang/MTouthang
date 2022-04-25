@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MTouthang
-- 👀 Interested in software developement mainly backend
-- 🌱 I’m currently learning and boosting up my knowledge in java and spring framework
+- 👀 am a computer science and engineering graduate student who wants to become a software engineer
+- 🌱 I’m currently learning and boosting up my knowledge in MERN stack of software development 
 - 💞️ I’m looking to work as a fulltime junior developer
 - 📫 You can reach me out in my linkedIn profile  -> https://www.linkedin.com/in/ngamlenmangtouthang/
 
