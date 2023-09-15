@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MTouthang
-- 👀 am a computer science and engineering graduate student who wants to become a software engineer
+- 👀 am a developer who built things for the web.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack of software development 
-- 💞️ currently working as associate developer 
+- 💞️ currently working as associate developer at Ineuron
 - 📫 You can reach me out in my linkedIn profile  -> https://www.linkedin.com/in/ngamlenmangtouthang/
 
 - Commits 🧑‍💻🐍
