@@ -12,7 +12,7 @@ My focus extends to both the frontend and backend aspects of these applications.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MTouthang&&style=flat-square)  
 
-## Languages and Tools 
+## Some tools and languages I've work with
 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
